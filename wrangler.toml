@@ -1,0 +1,8 @@
+name = "booking-api"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "booking-db"
+database_id = "a96ecbde-82bc-43c6-9df0-b826df14f69a"
