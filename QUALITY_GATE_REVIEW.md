@@ -4,6 +4,7 @@
 - **Base API URL used for testing:** https://booking-api.student-projects.workers.dev/api
 - **Decision:** READY
 - **Evidence:** screenshots of all tests are in the `evidence.pdf` file
+- **First version snapshot:** git commit `a83ba46` on 2026-10-06 at 14:32 (+0700), message "Campus equipment booking API". This is my first commit. Later fixes are in commits other coomits
 
 | Quality Gate area | Finding | Action taken | Evidence |
 |---|---|---|---|
