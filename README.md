@@ -4,6 +4,7 @@ A REST API for booking shared equipment (projectors, cameras, rooms) without dou
 Built with Hono + TypeScript on Cloudflare Workers, using Cloudflare D1 (SQLite).
 
 - **Deployed Base API URL:** `https://booking-api.student-projects.workers.dev/api`
+- No front-end
 
 ## Files
 
